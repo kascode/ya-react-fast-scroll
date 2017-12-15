@@ -1,0 +1,13 @@
+{
+  "name": "ya-fast-scroll",
+  "version": "0.1.0",
+  "description": "fast scroll react component",
+  "main": "index.js",
+  "author": "Nikita Kasyanov",
+  "license": "MIT",
+  "devDependencies": {
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "size-limit": "^0.13.2"
+  }
+}
